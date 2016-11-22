@@ -33,7 +33,7 @@ New and returning users should review the [quick start guide](https://github.com
 2.6.3 Change Log:
 ----------------------------------
 * ATS Compatibility
-* Misc bug fixes
+* Miscellaneous bug fixes
 
 2.6.2 Change Log:
 ----------------------------------
